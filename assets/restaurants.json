@@ -1,0 +1,165 @@
+[
+	{
+		"id": "1",
+		"name": "Tripple T Luanda",
+		"deliveryFee": 1.4,
+		"minDeliveryTime": 25,
+		"maxDeliveryTime": 35,
+		"rating": 4.0,
+		"image": "require(../assets/Restaurants/background-1.jpg)",
+		"dishes": [
+			{
+				"name": "Ugali Samaki-Fry",
+				"description": "6 pieces of chese with sauce.",
+				"price": 6.9,
+				"image": "../assets/Restaurants/food-1.jpg"
+			},
+			{
+				"name": "Hamburger Kenyan-Burger",
+				"description": "Double meat, gouda cheese, cheddar cheese, cooked ham, bacon, egg, salad and rustic potatoes.",
+				"price": 8.9,
+				"image": "../assets/Restaurants/food-10.jpg"
+			},
+			{
+				"name": "Chips Burger",
+				"description": "Beef, gouda cheese, cheddar cheese, cooked ham, bacon, egg and salad.",
+				"price": 5.4,
+				"image": "../assets/Restaurants/food-11.jpg"
+			},
+			{
+				"name": "King's Sandwich",
+				"description": "Ripe plantain with cheese and palm honey.",
+				"price": 5.9,
+				"image": "../assets/Restaurants/food-9.jpg"
+			},
+			{
+				"name": "Papas Nyamachoma",
+				"description": "French fries with shredded chicken, gouda cheese and ham.",
+				"price": 7.9,
+				"image": "../assets/Restaurants/food-12.jpg"
+			}
+		]
+	},
+	{
+		"id": "2",
+		"name": "Payless Restaurant",
+		"deliveryFee": 0.4,
+		"minDeliveryTime": 25,
+		"maxDeliveryTime": 35,
+		"rating": 4.7,
+		"image": "../assets/Restaurants/background-2.jpg",
+		"dishes": [
+			{
+				"name": "Ng'ombe Ribs",
+				"description": "For lovers of a spicy touch. Ribs bathed in our Original sauce accompanied by Cajun spices. Served with French fries and coleslaw.",
+				"price": 18.95,
+				"image": "../assets/Restaurants/food-4.jpg"
+			},
+			{
+				"name": "Chicken Backs",
+				"description": "The house specialty. Pork ribs cooked on the barbecue and marinated with our original barbecue sauce. Served with French fries and coleslaw.",
+				"price": 19.95
+			},
+			{
+				"name": "Kisumu Honey",
+				"description": "Our famous ribs marinated with our kisumu honey sauce, a mixture of honey with our original sauce. Ideal for those looking for a sweet touch. Served with French fries and coleslaw.",
+				"price": 18.95,
+				"image": "../assets/Restaurants/food-7.jpg"
+			},
+			{
+				"name": "Ugali Nyama",
+				"description": "Los tradicionales aros de cebolla de tony roma´s dorados, crujientes y ligeros. Únicos en el mundo, acompañados de salsa BBQ.",
+				"price": 6.95,
+				"image": "../assets/Restaurants/food-6.jpg"
+			},
+			{
+				"name": "Chapati Nacho",
+				"description": "The best selling nachos! with our blend of melted cheeses, accompanied by guacamole, crispy bacon, ranch beans, and sour cream.",
+				"price": 10.95,
+				"image": "../assets/Restaurants/food-8.jpg"
+			}
+		]
+	},
+	{
+		"id": "3",
+		"name": "Mama Farida - Nyawita",
+		"deliveryFee": 1.4,
+		"minDeliveryTime": 20,
+		"maxDeliveryTime": 30,
+		"rating": 4.3,
+		"image": "../assets/Restaurants/background-3.jpg",
+		"dishes": [
+			{
+				"name": "Burger Matoke",
+				"description": "Homemade bread, burger sauce, lettuce, sweet and sour pickle, bacon, cheddar and BBQ sauce. Beef 180 grams.",
+				"price": 5.9,
+				"image": "../assets/Restaurants/food-10.jpg"
+			},
+			{
+				"name": "Maseno bread",
+				"description": "Artisan bread, butter sauce, garlic, BBQ chicken and cheddar.",
+				"price": 3.0,
+				"image": "../assets/Restaurants/food-11.jpg"
+			},
+			{
+				"name": "Famous Maseno Burger",
+				"description": "Homemade bread, lettuce, burger sauce, 180 grams of beef, goat cheese and roasted apple.",
+				"price": 5.9,
+				"image": "../assets/Restaurants/food-12.jpg"
+			},
+			{
+				"name": "Mac & Cheese Burger(Kenyan)",
+				"description": "Homemade bread, lettuce, burger sauce, 180 grams of beef, mac and cheese, and American-style bacon.",
+				"price": 5.9,
+				"image": "../assets/Restaurants/food-2.jpg"
+			},
+			{
+				"name": "Matumbo Nachos",
+				"description": "Nachos, guacamole, cheddar sauce, beans, bacon, and cream cheese.",
+				"price": 5.2,
+				"image": "../assets/Restaurants/food-3.jpg"
+			}
+		]
+	},
+	{
+		"id": "4",
+		"name": "Silverspoon - Maseno",
+		"deliveryFee": 0.9,
+		"minDeliveryTime": 30,
+		"maxDeliveryTime": 40,
+		"rating": 4.5,
+		"image": "../assets/Restaurants/background-4.jpg",
+		"dishes": [
+			{
+				"name": "Swahili burger",
+				"description": "Beef with bacon, portobello mushrooms, tomato, cheddar cheese, grilled egg and our smoked sauce.",
+				"price": 14.9,
+				"image": "../assets/Restaurants/food-6.jpg"
+			},
+			{
+				"name": "Chapo Beef",
+				"description": "Beef, with pico de gallo, veggie chili, cheddar cheese, guacamole and smoked sauce.",
+				"price": 14.9,
+				"image": "../assets/Restaurants/food-5.jpg"
+			},
+			{
+				"name": "Hotdog Tequeños",
+				"description": "Crispy sticks filled with melted cheese accompanied by tomato chutney.",
+				"price": 9.9,
+				"image": "../assets/Restaurants/food-4.jpg"
+			},
+			{
+				"name": "Sato Kuku combo",
+				"description": "Tequeños, crispy onion and chicken delicacies.",
+				"price": 13.9,
+				"image": "../assets/Restaurants/food-3.jpg"
+			},
+			{
+				"name": "Kienyeji Salad",
+				"description": "Green sprouts, pieces of grilled bacon, chicken delicacies, grated Parmesan, muffin croutons and fried onion confetti dressed with Caesar sauce.",
+				"price": 10.5,
+				"image": "../assets/Restaurants/food-1.jpg"
+			}
+		]
+	}
+]

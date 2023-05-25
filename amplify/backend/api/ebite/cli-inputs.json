@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "ebite",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "D:\\workstation\\My_Codebase\\Native_Mobile_Apps\\food_app_project\\e_bite\\amplify\\backend\\api\\ebite\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
